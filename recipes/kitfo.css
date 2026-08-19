@@ -1,0 +1,11 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+h1 {
+    text-align: center;
+}
+.home {
+    display: block;
+    text-align: center;
+}
